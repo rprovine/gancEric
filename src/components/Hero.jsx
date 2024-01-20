@@ -33,7 +33,7 @@ export function Hero() {
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="/register">Sign Up Today!</Button>
         <Button
-          href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+          href="https://youtu.be/bibpNeoKx_w?si=hVhv6b5snwqnd4hq"
           variant="outline"
         >
           <svg
