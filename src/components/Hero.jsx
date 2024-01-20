@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 import { Button } from '@/components/Button'
 import { Container } from '@/components/Container'
-import logoStratix from '@/images/logos/stratix.png'
+
 import logoSterilMed from '@/images/logos/SterilMed.png'
 import logoUofNLincoln from '@/images/logos/UofNLincoln.png'
 import logoSilvon from '@/images/logos/Silvon.png'
@@ -61,7 +61,7 @@ export function Hero() {
             ],
             [
               { name: 'SterilMed', logo: logoSterilMed },
-              { name: 'Stratix', logo: logoStratix },
+              
               { name: 'UofNLincoln', logo: logoUofNLincoln },
             ],
           ].map((group, groupIndex) => (
