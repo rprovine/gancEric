@@ -6,7 +6,7 @@ import logoStratix from '@/images/logos/Stratix.png'
 import logoSterilMed from '@/images/logos/SterilMed.png'
 import logoUofNLincoln from '@/images/logos/UofNLincoln.png'
 import logoSilvon from '@/images/logos/Silvon.png'
-import logoEvergreenmarketing from '@/images/logos/Evergreenmarketing.png'
+import logoEvergreenmarketing from '@/images/logos/evergreenmarketing.png'
 import logoJPM from '@/images/logos/JPM.png'
 
 export function Hero() {
