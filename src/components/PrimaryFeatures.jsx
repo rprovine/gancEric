@@ -7,7 +7,7 @@ import clsx from 'clsx'
 
 import { Container } from '@/components/Container'
 import backgroundImage from '@/images/background-features.jpg'
-import screenshotRobotOperator from '@/images/screenshots/robot operator.png'
+import screenshotRobotOperator from '@/images/screenshots/robotoperator.png'
 import screenshotOperator_orange from '@/images/screenshots/operator_orange.png'
 import screenshotAcctMgmt from '@/images/screenshots/acct_mgmt_screenshot.png'
 import screenshotRadioTours from '@/images/screenshots/operator.png'
